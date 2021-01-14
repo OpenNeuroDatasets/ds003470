@@ -6,17 +6,16 @@
         "Anja Ischebeck",
         "Hannah Hiebel",
         "Joe Miller",
-        "Margit Höfler",
+        "Margit H\u00f6fler",
         "Iain D. Gilchrist",
-        "Christof Körner"
-        ],
-    "Funding": [
-        "OPTIONAL. List of sources of funding (grant numbers)"
+        "Christof K\u00f6rner"
     ],
+    "Funding": [],
     "EthicsApprovals": [
         "Austrian Science Fund (FWF): P-28724"
     ],
-    "ReferencesAndLinks": 
-        ["If you reference this dataset in your publications, please aknowledge its authors and cite: Ischebeck A, Hiebel H, Miller J, Höfler M, Gilchrist ID, Körner C (in press) Target processing in overt serial visual search involves the dorsal attention network: A fixation-based event-related fMRI study. Neuropsychologia."],
+    "ReferencesAndLinks": [
+        "If you reference this dataset in your publications, please aknowledge its authors and cite: Ischebeck A, Hiebel H, Miller J, H\u00f6fler M, Gilchrist ID, K\u00f6rner C (in press) Target processing in overt serial visual search involves the dorsal attention network: A fixation-based event-related fMRI study. Neuropsychologia."
+    ],
     "DatasetDOI": "OPTIONAL. The Document Object Identifier of the dataset (not the corresponding paper)"
 }
