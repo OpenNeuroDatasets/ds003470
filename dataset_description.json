@@ -1,0 +1,22 @@
+{
+    "Name": "MRI Lab Graz: Target processing in overt serial visual search involves the dorsal attention network: A fixation-based event-related fMRI study.",
+    "BIDSVersion": "1.2.2",
+    "License": "CC0",
+    "Authors": [
+        "Anja Ischebeck",
+        "Hannah Hiebel",
+        "Joe Miller",
+        "Margit Höfler",
+        "Iain D. Gilchrist",
+        "Christof Körner"
+        ],
+    "Funding": [
+        "OPTIONAL. List of sources of funding (grant numbers)"
+    ],
+    "EthicsApprovals": [
+        "Austrian Science Fund (FWF): P-28724"
+    ],
+    "ReferencesAndLinks": 
+        ["If you reference this dataset in your publications, please aknowledge its authors and cite: Ischebeck A, Hiebel H, Miller J, Höfler M, Gilchrist ID, Körner C (in press) Target processing in overt serial visual search involves the dorsal attention network: A fixation-based event-related fMRI study. Neuropsychologia."],
+    "DatasetDOI": "OPTIONAL. The Document Object Identifier of the dataset (not the corresponding paper)"
+}
