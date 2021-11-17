@@ -1,12 +1,10 @@
 {
-	"fixdur" : 
-	{
-		"Longname" : "Fixed durations",
-		"Description" : "Fixed durations"
-	},
-	"fixrank" : 
-	{
-		"Longname" : "Fixed durations",
-		"Description" : "Fixed durations"
-	}
+    "fixdur": {
+        "Longname": "Fixed durations",
+        "Description": "Fixed durations"
+    },
+    "fixrank": {
+        "Longname": "Fixed durations",
+        "Description": "Fixed durations"
+    }
 }
